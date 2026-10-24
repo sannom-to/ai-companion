@@ -1,6 +1,7 @@
 # 心伴 · AI 智能伴侣
 
 基于 Python、Streamlit、DeepSeek API 和 SQLite 的个人 AI 陪伴应用，支持多轮聊天、历史对话切换、邀请码注册与账号数据隔离。
+<img width="2802" height="1606" alt="image" src="https://github.com/user-attachments/assets/888eed7f-21ca-4e96-b8cf-730e1b9f5c62" />
 
 在线体验：待部署后填写。源码：当前仓库。
 演示截图：待添加（请使用虚构聊天内容，遮挡账号、邀请码及个人信息）。
